@@ -169,6 +169,10 @@ body {
     margin-bottom: 3rem;
 }
 
+div#youtube-video {
+    padding: 0 1rem;
+}
+
 iframe {
     border-radius: 0.5rem;
 
