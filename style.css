@@ -10,10 +10,6 @@ html, body {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
     background-color: #eee;
     font-family: 'Poppins', sans-serif;
 
@@ -21,6 +17,14 @@ body {
 }
 
 /* BODY ======================================== */
+
+#all-body-content {
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
 #header {
     position: fixed;
